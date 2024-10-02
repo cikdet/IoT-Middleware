@@ -11,7 +11,8 @@ ariffin@myduino.com
 ```
 Git Forked from Myduino. Tq
 
-Terima kasih
+Repo ini diambil daripada https://github.com/myduino/IoT-Middleware.
+Terima kasih. 
 
 # Docker IoT Middleware
 
