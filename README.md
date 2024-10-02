@@ -11,6 +11,8 @@ ariffin@myduino.com
 ```
 Git Forked from Myduino. Tq
 
+Terima kasih
+
 # Docker IoT Middleware
 
 This repository contains a skeleton to setup remote server to become a powerful IoT middleware along side with open-source server side applications below using [Docker Compose](https://docs.docker.com/compose/):
